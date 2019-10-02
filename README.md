@@ -1,5 +1,6 @@
 # Azkaban CLI
 [![Build Status](https://travis-ci.com/globocom/azkaban-cli.svg?branch=master)](https://travis-ci.com/globocom/azkaban-cli)
+[![Coverage Status](https://coveralls.io/repos/github/LeonardoFurtado/azkaban-cli/badge.svg?branch=master)](https://coveralls.io/github/LeonardoFurtado/azkaban-cli?branch=master)
 
 CLI for Azkaban 3 API access and flow upload.
 
