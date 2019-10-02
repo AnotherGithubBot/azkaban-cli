@@ -6,7 +6,7 @@ CLI for Azkaban 3 API access and flow upload.
 
 ## Install
 
-Use virtualenv or conda env
+Use virtualenv or conda env.
 ```sh
 ### Building virtualenv
 virtualenv azkaban_cli
