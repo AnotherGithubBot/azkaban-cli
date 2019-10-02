@@ -58,4 +58,4 @@ azkaban login --host https://azkaban.your_company.com
 
 ## Contribute
 
-For development and contributing, please follow [Contributing Guide](https://github.com/globocom/azkaban-cli/blob/master/CONTRIBUTING.md) and ALWAYS respect the [Code of Conduct](https://github.com/globocom/azkaban-cli/blob/master/CODE_OF_CONDUCT.md)
+For development and contributing, please follow [Contributing Guide](https://github.com/globocom/azkaban-cli/blob/master/CONTRIBUTING.md) and ALWAYS respect the [Code of Conduct](https://github.com/globocom/azkaban-cli/blob/master/CODE_OF_CONDUCT.md).
