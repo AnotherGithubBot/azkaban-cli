@@ -12,3 +12,5 @@ install:
 # command to run tests
 script:
   - make test
+# command to get coverage
+after_success: coveralls
